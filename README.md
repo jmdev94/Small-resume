@@ -4,6 +4,8 @@ Technology I know:
   * NodeJS(intermediate)
   * Python 3+ (intermediate)
   * Java (beginner, less familar with Object-oriented programming)
+
+
 Technology I am either learning or interested in:  
   * Linux (Debian & Arch systems)
   * Various Linux tools (security tools, examples: Kali Linux 20XX-2021, Parrot Linux, Debian 9 system administration)
